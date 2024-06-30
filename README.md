@@ -17,7 +17,14 @@ This repository contains engineering materials of a self-driven vehicle's model 
 _The RoSGhost team is integrated by Nahomy Sclopis, Alex Gonzalez and Alexis Quintero, who represent Colegio San Vicente de Paúl in this Future Engineers competition. The project consists of building and programming a robot using LEGO Inventor, designed to navigate a challenge course. This robot combines LEGO mechanical and electronic components with electronic controllers and sensors, allowing us to explore the fundamental concepts of engineering and programming._
 
 
-## How to prepare the repo based on the template
+## Mision
+_Participating in the Future Engineers Competition for the first time is an exciting and enriching experience. We hope to learn deeply about the integration of mechanics and programming through the construction of our LEGO robot._
+
+## Vision
+_Beyond the competition, we are excited to tackle innovative challenges, interact with other teams passionate about engineering, and see our ideas take shape on the competition track._
+
+## Challenges
+_This challenge will allow us to apply theoretical concepts in a hands-on environment, develop critical problem-solving skills, and collaborate effectively as a team._
 
 _Remove this section before the first commit to the repository_
 
