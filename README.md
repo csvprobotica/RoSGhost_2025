@@ -14,7 +14,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+_The project consists of building and programming a robot using LEGO EV3, designed to navigate a challenge course. This robot combines LEGO mechanical and electronic components with electronic controllers and sensors, allowing us to explore the fundamental concepts of engineering and programming._
 
 ## How to prepare the repo based on the template
 
