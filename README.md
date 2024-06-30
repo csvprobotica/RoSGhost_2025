@@ -5,11 +5,11 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Content
 
-* `schemes` contains a schematic diagram in PNG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
-* `src` contains code of control software for all components which were programmed to participate in the competition.
-* `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members).
-* `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom).
-* `video` contains the video.mp4 file with the robot driving demonstration.
+* [`schemes`](https://github.com/new) contains a schematic diagram in PNG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
+* [`src`]() contains code of control software for all components which were programmed to participate in the competition.
+* [`t-photos`]() contains 2 photos of the team (an official one and one funny photo with all team members).
+* [`v-photos`]() contains 6 photos of the vehicle (from every side, from top and bottom).
+* [`video`]() contains the video.mp4 file with the robot driving demonstration.
 
 ## Introduction
 
@@ -24,7 +24,7 @@ _Beyond the competition, we are excited to tackle innovative challenges, interac
 ## Challenges
 _This challenge will allow us to apply theoretical concepts in a hands-on environment, develop critical problem-solving skills, and collaborate effectively as a team._
 
-_Remove this section before the first commit to the repository_
+_The robot we will use for this challenge contains the following electronic components._
 
 1. Clone this repo by using the `git clone` functionality.
 2. Remove `.git` directory
