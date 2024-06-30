@@ -26,6 +26,7 @@ _This challenge will allow us to apply theoretical concepts in a hands-on enviro
 
 _The robot we will use for this challenge contains the following electronic components._
 
-1. Clone this repo by using the `git clone` functionality.
-2. Remove `.git` directory
-3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
+1. Lego inventor Hub and its rechargeable battery programmed in the MINDSTORMS app.
+2. two medium lego motors, one for rolling and the other for turning.
+3. two ultrasonic sensors for the detection of the walls.
+4. a color sensor for detecting green and red objects.
