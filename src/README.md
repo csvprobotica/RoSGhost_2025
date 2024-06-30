@@ -1,6 +1,6 @@
 Control software
 ====
 
-This directory must contain code for control software which is used by the vehicle to participate in the competition and which was developed by the participants.
+This directory contains the main [source code](https://github.com/csvprobotica/RoSGhost/blob/main/src/RoSGhost.lms) realized in a block system using the Lego Inventor MINDSTORMS program.
 
-All artifacts required to resolve dependencies and build the project must be included in this directory as well.
+All the programming has been done by ourselves.
