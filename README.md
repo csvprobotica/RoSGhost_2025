@@ -14,9 +14,8 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-The project consists of building and programming a robot using LEGO EV3, designed to navigate a challenge course. This robot combines LEGO mechanical and electronic components with electronic controllers and sensors, allowing us to explore the fundamental concepts of engineering and programming.
+_The RoSGhost team is integrated by Nahomy Sclopis, Alex Gonzalez and Alexis Quintero, who represent Colegio San Vicente de Paúl in this Future Engineers competition. The project consists of building and programming a robot using LEGO Inventor, designed to navigate a challenge course. This robot combines LEGO mechanical and electronic components with electronic controllers and sensors, allowing us to explore the fundamental concepts of engineering and programming._
 
-The RoSGhost team is integrated by Nahomy Sclopis, Alex Gonzalez and Alexis Quintero, who represent Colegio San Vicente de Paúl in this Future Engineers competition.
 
 ## How to prepare the repo based on the template
 
