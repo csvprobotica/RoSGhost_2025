@@ -1,5 +1,3 @@
 Video
 ====
-
-This directory must contain the video.md file with a URL to YouTube (should be either public or accessible by link) showing the vehicle driving autonomously.
-That part of the video where driving demonstration exists must be at least 30 seconds in length.
+This directory shows a [`video`](https://www.youtube.com/watch?v=pdvGdiLsEA0) of the operation of our robot in the Future Engineers track at the Panama Robotics Olympics WRO2024.
