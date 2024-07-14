@@ -1,3 +1,7 @@
+## RoSGhost WRO 2024
+
+_The RoSGhost team is integrated by Nahomy Sclopis, Alex Gonzalez and Alexis Quintero, who represent Colegio San Vicente de Paúl in this Future Engineers competition._ 
+
 Engineering materials
 ====
 
