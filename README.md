@@ -15,12 +15,13 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 Building Instructios
 ====
-* Robot structure:
-  - Design idea used from lego [M.V.P](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lego.com/cdn/product-assets/product.bi.additional.main.pdf/51515_MVP.pdf&ved=2ahUKEwiw8bretaWHAxV0mbAFHf3RBCYQFnoECBMQAQ&usg=AOvVaw04D5riAZvc2TIGsk0whvge) and [Antons Mindstorms Hot Rod](https://www.antonsmindstorms.com/product/hot-rod-with-spike-prime-pdf-building-instructions/)
-* Operating Diagram
+* Robot Structure:
+  - Design idea used from lego [`M.V.P`](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lego.com/cdn/product-assets/product.bi.additional.main.pdf/51515_MVP.pdf&ved=2ahUKEwiw8bretaWHAxV0mbAFHf3RBCYQFnoECBMQAQ&usg=AOvVaw04D5riAZvc2TIGsk0whvge) and [`Antons Mindstorms Hot Rod`](https://www.antonsmindstorms.com/product/hot-rod-with-spike-prime-pdf-building-instructions/)
+* Operating Diagram:
   - The directory  schemes contains a connection diagram where all the ports used are distributed, a process diagram which details all the actions to be performed and a list of electronic components in which each of the elements used are described.
-* Programming Code (Block and Python)
+* Programming Code: (Block and Python)
   - The directory scr contains the main source code realized in a block system using the Lego Inventor MINDSTORMS program and Python Code
+
 All the programming has been done by ourselves.
 
 
