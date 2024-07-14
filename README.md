@@ -44,31 +44,31 @@ This robot is designed to evade lateral obstacles, complete three full rotations
 This mobility system allows the robot to autonomously navigate environments with obstacles, perform evasive maneuvers, and maintain precise orientation using the gyroscope.
 
 Below are the key aspects of its mobility:
-1. **Continuous Forward Movement:**
+1. Continuous Forward Movement:
    - The rear motor, connected to port B, drives the robot forward at a constant speed.
    - The robot moves continuously while monitoring distances to obstacles on both sides.
 
-2. **Lateral Obstacle Evasion:**
-   - Two ultrasonic sensors are connected to ports C (right) and D (left).
+2. Lateral Obstacle Evasion:
+   - Two ultrasonic sensors are connected to ports D (right) and E (left).
    - These sensors detect obstacles on the sides of the robot.
    - If the right sensor detects a wall within 10 cm, the robot stops the rear motor and uses the front motor to turn 90 degrees to the left.
    - If the left sensor detects a wall within 10 cm, the robot stops the rear motor and uses the front motor to turn 90 degrees to the right.
    - After evading an obstacle, the rear motor resumes forward movement.
 
-3. **Turning and Navigation:**
+3. Turning and Navigation:
    - The front motor, connected to port A, is used exclusively for precise turns.
    - To turn 90 degrees to the left, the front motor is activated in the opposite direction for a specific duration.
    - To turn 90 degrees to the right, the front motor is activated in the direct direction for a specific duration.
    - Turns are calibrated to ensure the robot maintains its course and can navigate effectively around obstacles.
 
-4. **Gyroscope Utilization:**
+4. Gyroscope Utilization:
    - The integrated gyroscope in the LEGO Mindstorms hub is used to track the robot's orientation.
    - At the start, the gyroscope is reset to establish a zero-degree reference angle.
    - While the robot moves and evades obstacles, the gyroscope measures the cumulative turning angle.
    - The robot is programmed to complete three full rotations, totaling 1080 degrees.
    - Each time the gyroscope detects a 360-degree rotation, the lap counter is incremented and the gyroscope angle is reset.
 
-5. **Stopping at the Initial Position:**
+5. Stopping at the Initial Position:
    - After completing the three rotations, the robot stops the rear motor and remains at the initial position, indicating the task is complete.
 
 ## Challenges
