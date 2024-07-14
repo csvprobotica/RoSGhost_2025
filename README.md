@@ -13,6 +13,7 @@ Materials to build our robot:
 * 1 Medium Angular Motor 88018
 * 3 Technic Distance Sensor 45604
 * 1 Technic Color Sensor 45605
+* 1 Integrated gyroscope
 * 1 Rechargeable battery 7.4V 2100mAh
 
 Building Instructions
@@ -49,7 +50,7 @@ Below are the key aspects of its mobility:
    - The robot moves continuously while monitoring distances to obstacles on both sides.
 
 2. Lateral Obstacle Evasion:
-   - Two ultrasonic sensors are connected to ports D (right) and E (left).
+   - Three ultrasonic sensors are connected to ports D (right), E (left) and F (front).
    - These sensors detect obstacles on the sides of the robot.
    - If the right sensor detects a wall within 10 cm, the robot stops the rear motor and uses the front motor to turn 90 degrees to the left.
    - If the left sensor detects a wall within 10 cm, the robot stops the rear motor and uses the front motor to turn 90 degrees to the right.
