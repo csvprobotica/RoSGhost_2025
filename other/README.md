@@ -1,2 +1,2 @@
-## RoSGhost WRO 2024
+## Other
 
