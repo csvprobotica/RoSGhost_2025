@@ -13,8 +13,9 @@ Materials to build our robot:
 * 1 Medium Angular Motor 88018
 * 3 Technic Distance Sensor 45604
 * 1 Technic Color Sensor 45605
-* 1 Integrated gyroscope
 * 1 Rechargeable battery 7.4V 2100mAh
+* Integrated gyroscope
+* 3D modeling designs for assembly
 
 Building Instructions
 ====
