@@ -77,6 +77,46 @@ The code provided for the LEGO Mindstorms Inventor robot outlines a strategy for
 
 The strategy employed in this code enables the LEGO Mindstorms Inventor robot to autonomously navigate its environment, avoid obstacles, and complete a series of precise rotations. By utilizing the rear motor for forward movement, the front motor for turning, and the gyroscope for orientation tracking, the robot can perform complex maneuvers and maintain accuracy in its movements. This approach ensures that the robot can handle dynamic environments and complete its assigned task effectively.
 
+Here is a detailed description of the strategy implemented in the code:
+
+1. Initialization:
+   - The robot's hub, motors,color and ultrasonic sensors are initialized.
+   - The rear motor (connected to port B) is designated for forward movement.
+   - The front motor (connected to port A) is designated for turning.
+   - Three ultrasonic sensors (connected to ports D,E and F) are used to detect obstacles on the right and left sides, respectively.
+
+2. Continuous Forward Movement:
+   - The robot starts moving forward at a constant speed using the rear motor.
+   - This movement is continuous, allowing the robot to traverse its environment.
+
+3. Obstacle Detection and Evasion:
+   - While moving forward, the robot continuously monitors the distance to obstacles on both sides using the ultrasonic sensors.
+   - If the right sensor detects an obstacle within 10 cm, the robot:
+     - Stops the rear motor to halt forward movement.
+     - Activates the front motor to turn 90 degrees to the left.
+     - Waits for a short duration to complete the turn.
+     - Resumes forward movement with the rear motor.
+   - If the left sensor detects an obstacle within 10 cm, the robot:
+     - Stops the rear motor.
+     - Activates the front motor to turn 90 degrees to the right.
+     - Waits for a short duration to complete the turn.
+     - Resumes forward movement with the rear motor.
+   - This ensures that the robot can navigate around obstacles and continue its path.
+
+4. Gyroscope for Orientation and Rotation Tracking:
+   - The robot uses the integrated gyroscope to maintain and track its orientation.
+   - At the beginning of the operation, the gyroscope is reset to establish a zero-degree reference.
+   - The gyroscope continuously measures the robot's turning angle to track its rotational progress.
+
+5. Three Full Rotations:
+   - The robot is programmed to complete three full rotations, equivalent to 1080 degrees.
+   - Each time the gyroscope detects a 360-degree rotation, the rotation counter is incremented, and the gyroscope is reset.
+   - The process of obstacle detection, evasion, and continuous forward movement ensures that the robot can complete its rotations without interruptions.
+
+6. Completion and Stopping:
+   - After completing the three full rotations, the robot stops the rear motor.
+   - The robot remains in its final position, indicating the completion of its task.
+
 ## Challenges
 _This challenge will allow us to apply theoretical concepts in a hands-on environment, develop critical problem-solving skills, and collaborate effectively as a team._
 
