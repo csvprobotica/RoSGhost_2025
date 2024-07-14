@@ -6,10 +6,10 @@ from mindstorms.control import wait_for_seconds
 hub = MSHub()
 front_motor = Motor('A')  # Front motor on port A for turning
 rear_motor = Motor('B')  # Rear motor on port B for driving
-right_ultrasonic_sensor = DistanceSensor('C')  # Right distance sensor on port C
-left_ultrasonic_sensor = DistanceSensor('D')  # Left distance sensor on port D
-front_ultrasonic_sensor = DistanceSensor('E')  # Front distance sensor on port E
-color_sensor = ColorSensor('F')  # Color sensor on port F
+right_ultrasonic_sensor = DistanceSensor('D')  # Right distance sensor on port C
+left_ultrasonic_sensor = DistanceSensor('E')  # Left distance sensor on port D
+front_ultrasonic_sensor = DistanceSensor('F')  # Front distance sensor on port E
+color_sensor = ColorSensor('C')  # Color sensor on port F
 
 # Set speed and turn duration
 SPEED = 50
