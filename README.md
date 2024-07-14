@@ -2,12 +2,12 @@ Engineering materials
 ====
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
-*1 Lego Inventor Large Hub 88016
-*1 Large Angular Motor 88017
-*1 Medium Angular Motor 88018
-*3 Technic Distance Sensor 45604
-*1 Technic Color Sensor 45605
-*1 Rechargeable battery 7.4V 2100mAh
+* 1 Lego Inventor Large Hub 88016
+* 1 Large Angular Motor 88017
+* 1 Medium Angular Motor 88018
+* 3 Technic Distance Sensor 45604
+* 1 Technic Color Sensor 45605
+* 1 Rechargeable battery 7.4V 2100mAh
 
 ## Content
 
