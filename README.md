@@ -72,12 +72,11 @@ Below are the key aspects of its mobility:
 5. Stopping at the Initial Position:
    - After completing the three rotations, the robot stops the rear motor and remains at the initial position, indicating the task is complete.
 
+## Strategy
+The code provided for the LEGO Mindstorms Inventor robot outlines a strategy for autonomous navigation, obstacle evasion, and precise rotational movements.
+
+The strategy employed in this code enables the LEGO Mindstorms Inventor robot to autonomously navigate its environment, avoid obstacles, and complete a series of precise rotations. By utilizing the rear motor for forward movement, the front motor for turning, and the gyroscope for orientation tracking, the robot can perform complex maneuvers and maintain accuracy in its movements. This approach ensures that the robot can handle dynamic environments and complete its assigned task effectively.
+
 ## Challenges
 _This challenge will allow us to apply theoretical concepts in a hands-on environment, develop critical problem-solving skills, and collaborate effectively as a team._
 
-_The robot we will use for this challenge contains the following electronic components._
-
-1. Lego inventor Hub and its rechargeable battery programmed in the MINDSTORMS app.
-2. two medium lego motors, one for rolling and the other for turning.
-3. two ultrasonic sensors for the detection of the walls.
-4. a color sensor for detecting green and red objects.
