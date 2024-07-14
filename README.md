@@ -15,10 +15,12 @@ Materials to build our robot:
 * 1 Technic Color Sensor 45605
 * 1 Rechargeable battery 7.4V 2100mAh
 
-Building Instructios
+Building Instructions
 ====
 * Robot Structure:
   - Design idea used from lego [`M.V.P`](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lego.com/cdn/product-assets/product.bi.additional.main.pdf/51515_MVP.pdf&ved=2ahUKEwiw8bretaWHAxV0mbAFHf3RBCYQFnoECBMQAQ&usg=AOvVaw04D5riAZvc2TIGsk0whvge) and [`Antons Mindstorms Hot Rod`](https://www.antonsmindstorms.com/product/hot-rod-with-spike-prime-pdf-building-instructions/)
+* Components Assembly:
+  - The Studio 2.0 application was used for the creation and 3D modeling of all parts in the models directory.
 * Operating Diagram:
   - The directory  schemes contains a connection diagram where all the ports used are distributed, a process diagram which details all the actions to be performed and a list of electronic components in which each of the elements used are described.
 * Programming Code: (Block and Python)
