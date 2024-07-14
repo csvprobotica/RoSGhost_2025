@@ -11,5 +11,5 @@ All the programming has been done by ourselves.
 
 ## Block Code
 
-* [`schemes`](https://github.com/csvprobotica/RoSGhost/tree/main/schemes) This image shows a screenshot of part of the block programming running in the Lego application.
+* [`schemes`](https://github.com/csvprobotica/RoSGhost/blob/main/src/Block_Code.png) This image shows a screenshot of part of the block programming running in the Lego application.
 
