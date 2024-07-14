@@ -38,6 +38,39 @@ All the programming has been done by ourselves.
 * [`v-photos`](https://github.com/csvprobotica/RoSGhost/tree/main/v-photos) contains 6 photos of the vehicle (from every side, from top and bottom).
 * [`video`](https://github.com/csvprobotica/RoSGhost/tree/main/video) contains the video.mp4 file with the robot driving demonstration.
 
+## Mobility
+This robot is designed to evade lateral obstacles, complete three full rotations, and stop at its initial position using a rear motor for forward movement and a front motor for turning.
+
+This mobility system allows the robot to autonomously navigate environments with obstacles, perform evasive maneuvers, and maintain precise orientation using the gyroscope.
+
+Below are the key aspects of its mobility:
+1. **Continuous Forward Movement:**
+   - The rear motor, connected to port B, drives the robot forward at a constant speed.
+   - The robot moves continuously while monitoring distances to obstacles on both sides.
+
+2. **Lateral Obstacle Evasion:**
+   - Two ultrasonic sensors are connected to ports C (right) and D (left).
+   - These sensors detect obstacles on the sides of the robot.
+   - If the right sensor detects a wall within 10 cm, the robot stops the rear motor and uses the front motor to turn 90 degrees to the left.
+   - If the left sensor detects a wall within 10 cm, the robot stops the rear motor and uses the front motor to turn 90 degrees to the right.
+   - After evading an obstacle, the rear motor resumes forward movement.
+
+3. **Turning and Navigation:**
+   - The front motor, connected to port A, is used exclusively for precise turns.
+   - To turn 90 degrees to the left, the front motor is activated in the opposite direction for a specific duration.
+   - To turn 90 degrees to the right, the front motor is activated in the direct direction for a specific duration.
+   - Turns are calibrated to ensure the robot maintains its course and can navigate effectively around obstacles.
+
+4. **Gyroscope Utilization:**
+   - The integrated gyroscope in the LEGO Mindstorms hub is used to track the robot's orientation.
+   - At the start, the gyroscope is reset to establish a zero-degree reference angle.
+   - While the robot moves and evades obstacles, the gyroscope measures the cumulative turning angle.
+   - The robot is programmed to complete three full rotations, totaling 1080 degrees.
+   - Each time the gyroscope detects a 360-degree rotation, the lap counter is incremented and the gyroscope angle is reset.
+
+5. **Stopping at the Initial Position:**
+   - After completing the three rotations, the robot stops the rear motor and remains at the initial position, indicating the task is complete.
+
 ## Challenges
 _This challenge will allow us to apply theoretical concepts in a hands-on environment, develop critical problem-solving skills, and collaborate effectively as a team._
 
