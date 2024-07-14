@@ -26,7 +26,7 @@ Building Instructions
 * Operating Diagram:
   - The directory  [`schemes`](https://github.com/csvprobotica/RoSGhost/tree/main/schemes)contains a connection diagram where all the ports used are distributed, a process diagram which details all the actions to be performed and a list of electronic components in which each of the elements used are described.
 * Programming Code: (Block and Python)
-  - The directory scr contains the main source code realized in a block system using the Lego Inventor MINDSTORMS program and Python Code
+  - The directory [`scr`](https://github.com/csvprobotica/RoSGhost/tree/main/src) contains the main source code realized in a block system using the Lego Inventor Mindstorms program and Python Code.
 
 All the programming has been done by ourselves.
 
