@@ -7,9 +7,11 @@ All the programming has been done by ourselves.
 
 ## Python Code
 
-* [`schemes`](https://github.com/csvprobotica/RoSGhost/tree/main/schemes) This image shows a screenshot of part of the source code running in the Lego application.
+This image shows a screenshot of part of the source code running in the Lego application.
+![Regular](https://github.com/csvprobotica/RoSGhost/blob/main/schemes/Connection%20Diagram.png)
 
 ## Block Code
 
-* [`schemes`](https://github.com/csvprobotica/RoSGhost/blob/main/src/Block_Code.png) This image shows a screenshot of part of the block programming running in the Lego application.
+This image shows a screenshot of part of the block programming running in the Lego application.
+![Regular](https://github.com/csvprobotica/RoSGhost/blob/main/schemes/Connection%20Diagram.png)
 
