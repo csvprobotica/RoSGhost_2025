@@ -75,7 +75,7 @@ Below are the key aspects of its mobility:
 ## Strategy
 The code provided for the LEGO Mindstorms Inventor robot outlines a strategy for autonomous navigation, obstacle evasion, and precise rotational movements.
 
-The strategy employed in this code enables the LEGO Mindstorms Inventor robot to autonomously navigate its environment, avoid obstacles, and complete a series of precise rotations. By utilizing the rear motor for forward movement, the front motor for turning, and the gyroscope for orientation tracking, the robot can perform complex maneuvers and maintain accuracy in its movements. This approach ensures that the robot can handle dynamic environments and complete its assigned task effectively.
+The strategy employed in this code enables the Lego Mindstorms Inventor robot to autonomously navigate its environment, avoid obstacles, and complete a series of precise rotations. By utilizing the rear motor for forward movement, the front motor for turning, and the gyroscope for orientation tracking, the robot can perform complex maneuvers and maintain accuracy in its movements. This approach ensures that the robot can handle dynamic environments and complete its assigned task effectively.
 
 Here is a detailed description of the strategy implemented in the code:
 
