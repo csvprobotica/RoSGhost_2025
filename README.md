@@ -34,6 +34,8 @@ All the programming has been done by ourselves.
 
 ## Content
 
+* [`models`](https://github.com/csvprobotica/RoSGhost/tree/main/models) in this directory you will find the 3D modeled files for the assembly of the robot and its components.
+* [`other`](https://github.com/csvprobotica/RoSGhost/tree/main/other) in this directory you will find additional files of the robot operation, process diagram and execution.
 * [`schemes`](https://github.com/csvprobotica/RoSGhost/tree/main/schemes) contains a schematic diagram in PNG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
 * [`src`](https://github.com/csvprobotica/RoSGhost/tree/main/src) contains code of control software for all components which were programmed to participate in the competition.
 * [`t-photos`](https://github.com/csvprobotica/RoSGhost/tree/main/t-photos) contains 2 photos of the team (an official one and one funny photo with all team members).
