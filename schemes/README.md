@@ -6,9 +6,6 @@ This directory contains a [`connection diagram`](https://github.com/csvprobotica
 ## Connection diagram
 ![Regular](https://github.com/csvprobotica/RoSGhost/blob/main/schemes/Connection%20Diagram.png)
 
-## Flowchart
-![Regular](https://github.com/csvprobotica/RoSGhost/blob/main/schemes/Flowchart.png)
-
 ## Electronic Components
 ![Regular](https://github.com/csvprobotica/RoSGhost/blob/main/schemes/Electronic%20Components.png)
 
