@@ -4,19 +4,19 @@ Vehicle's photos
 This directory contains photographs from all angles of the robot.
 
 ## Front
-![1](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Front.jpg)
+![1](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v2/RoSGhost-Front.jpg)
 
 ## Back
-![2](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Back.jpg)
+![2](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v2/RoSGhost-Back.jpg)
 
 ## Left
-![3](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Left.jpg)
+![3](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v2/RoSGhost-Left.jpg)
 
 ## Right
-![4](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Right.jpg)
+![4](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v2/RoSGhost-Right.jpg)
 
 ## Top
-![5](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Top.jpg)
+![5](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v2/RoSGhost-Top.jpg)
 
 ## Bottom
-![6](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Bottom.jpg)
+![6](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v2/RoSGhost-Bottom.jpg)
