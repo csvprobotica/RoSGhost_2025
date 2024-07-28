@@ -15,5 +15,8 @@ For this robot design, the following library was used as reference for the const
 ## 3D Model
 This is the design we created ourselves with the Studio 2.0 application.
 
-![Regular](https://github.com/csvprobotica/RoSGhost/blob/main/models/3D_Model_View.jpg)
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/3D_Model_View.jpg" alt="Texto alternativo" width="600"/>
+</div>
+
 
