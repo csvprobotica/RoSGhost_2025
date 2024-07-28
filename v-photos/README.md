@@ -1,7 +1,7 @@
 Vehicle's photos
 ====
 
-This directory contains pictures from all angles of the robot and now with version 3, eliminating the differential system and using gear system.
+This directory contains pictures from all angles of the robot and now with version 3 eliminating the differential system and using gear system.
 
 ## Front
 ![1](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v3/RoSGhost-Front.jpg)
