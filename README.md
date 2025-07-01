@@ -1,6 +1,6 @@
-## RoSGhost WRO 2024
+## RoSGhost WRO 2025
 
-_The RoSGhost team is integrated by Nahomy Sclopis, Alex Gonzalez and Alexis Quintero, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition._ 
+_The RoSGhost team is integrated by Alexis Quintero, Jose Filos and Fiorella Campos, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition._ 
 
 Engineering materials
 ====
@@ -12,7 +12,6 @@ Materials to build our robot:
 * 1 Large Angular Motor 88017
 * 1 Medium Angular Motor 88018
 * 3 Technic Distance Sensor 45604
-* 1 Technic Color Sensor 45605
 * 1 Rechargeable battery 7.4V 2100mAh
 * Integrated gyroscope
 * 3D modeling designs for assembly
@@ -83,7 +82,7 @@ The strategy employed in this code enables the Lego Mindstorms Inventor robot to
 Here is a detailed description of the strategy implemented in the code:
 
 1. Initialization:
-   - The robot's hub, motors,color and ultrasonic sensors are initialized.
+   - The robot's hub, motors and ultrasonic sensors are initialized.
    - The rear motor (connected to port B) is designated for forward movement.
    - The front motor (connected to port A) is designated for turning.
    - Three ultrasonic sensors (connected to ports D,E and F) are used to detect obstacles on the right and left sides, respectively.
