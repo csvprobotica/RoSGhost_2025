@@ -9,22 +9,28 @@ In this directory contains pictures from all angles of the robot and now with ve
 
 
 ## Back
-2 ![Imagen de WhatsApp 2025-07-02 a las 12 27 19_3b5b790c](https://github.com/user-attachments/assets/722b2757-e412-41c8-8f51-462ab39514a2)
+
+[Ver imagen](https://github.com/user-attachments/assets/27f18ae8-b73f-4bf6-b328-480b0ded8dc1)
 
 
 ## Left
-3 ![Imagen de WhatsApp 2025-07-02 a las 12 27 20_cbf403aa](https://github.com/user-attachments/assets/ca9dfb99-d9c5-4171-be88-1edb09523f94)
+
+[Ver imagen](https://github.com/user-attachments/assets/c0615d8d-6831-4f79-9bb7-75200997b01d)
 
 
 ## Right
-4 ![Imagen de WhatsApp 2025-07-02 a las 12 27 18_4b00f23f](https://github.com/user-attachments/assets/0b823c14-99e2-4c40-a28a-39906e7861bc)
+
+[Ver imagen](https://github.com/user-attachments/assets/0b823c14-99e2-4c40-a28a-39906e7861bc)
 
 
 ## Bottom
-5 ![Imagen de WhatsApp 2025-07-02 a las 12 27 20_c2fef221](https://github.com/user-attachments/assets/fe118f32-465e-46fa-96d9-eedacfdf1ced)
+
+[Ver imagen](https://github.com/user-attachments/assets/fe118f32-465e-46fa-96d9-eedacfdf1ced)
 
 
 ## Top
-6 ![Imagen de WhatsApp 2025-07-02 a las 12 27 19_c963c2f5](https://github.com/user-attachments/assets/cb2e1cf0-a99c-4d73-a35f-18fec1e7a2ee)
+
+[Ver imagen](https://github.com/user-attachments/assets/cb2e1cf0-a99c-4d73-a35f-18fec1e7a2ee)
+
 
 
