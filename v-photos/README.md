@@ -15,8 +15,9 @@ In this directory contains pictures from all angles of the robot and now with ve
 ## Right
 ![4](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v3/RoSGhost-Right.jpg)
 
+## Bottom
+![6](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v3/RoSGhost-Bottom.jpg)
+
 ## Top
 ![5](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v3/RoSGhost-Top.jpg)
 
-## Bottom
-![6](https://github.com/csvprobotica/RoSGhost/blob/main/v-photos/v3/RoSGhost-Bottom.jpg)
