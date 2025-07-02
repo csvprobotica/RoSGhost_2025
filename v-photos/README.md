@@ -4,7 +4,8 @@ Vehicle's photos
 In this directory contains pictures from all angles of the robot and now with version 3 eliminating the differential system and using gear system.
 
 ## Front
-1 ![Imagen de WhatsApp 2025-07-02 a las 12 27 20_272c3d94](https://github.com/user-attachments/assets/27a3101d-cd82-40f8-9c1a-602cebcd4ec5)
+
+[Ver imagen](https://github.com/user-attachments/assets/27a3101d-cd82-40f8-9c1a-602cebcd4ec5)
 
 
 ## Back
