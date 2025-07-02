@@ -5,7 +5,7 @@ _The RoSGhost team is integrated by Alexis Quintero, Jose Filos and Fiorella Cam
 Engineering materials
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
+This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2025.
 
 Materials to build our robot:
 * 1 Lego Inventor Large Hub 88016
@@ -120,5 +120,5 @@ Here is a detailed description of the strategy implemented in the code:
    - The robot remains in its final position, indicating the completion of its task.
 
 ## Challenges
-_This challenge will allow us to apply theoretical concepts in a hands-on environment, develop critical problem-solving skills, and collaborate effectively as a team._
+_One of the challenges was to improve the robot's turns, as at the beginning it did not move accurately. As a team, we analyzed the problem, tested solutions, and managed to optimize its performance. This allowed us to apply theoretical knowledge in practice and strengthen our ability to solve problems as a group._
 
