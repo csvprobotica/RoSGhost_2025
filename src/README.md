@@ -16,5 +16,6 @@ This image shows a screenshot of part of the source code running in the Lego app
 
 This image shows a screenshot of part of the block programming running in the Lego application.
 
-[Regular](https://raw.githubusercontent.com/csvprobotica/RoSGhost/main/src/Block_Code.png)
+[Regular](https://github.com/user-attachments/assets/ba44858e-d863-4b43-99a4-048e688ac35b)
+
 
