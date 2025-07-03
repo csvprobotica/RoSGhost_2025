@@ -1,7 +1,8 @@
 Control software
 ====
 
-This directory contains the main source code made in the Lego Inventor MINDSTORMS program, the code is based on [`blocks`](https://github.com/csvprobotica/RoSGhost/blob/main/src/RoSGhost.lms) and also in [`python code`](https://github.com/csvprobotica/RoSGhost/blob/main/src/runRoSGhost.py).
+This directory contains the main source code made in the Lego Inventor MINDSTORMS program, the code is based on 
+[blocks](https://github.com/user-attachments/assets/ba44858e-d863-4b43-99a4-048e688ac35b) and also in [Python code](https://github.com/user-attachments/assets/df6e6693-ff66-4a96-bd05-109d06e84f09).
 
 All the programming has been done by ourselves.
 
