@@ -9,7 +9,8 @@ All the programming has been done by ourselves.
 
 This image shows a screenshot of part of the source code running in the Lego application.
 
-![Regular](https://github.com/csvprobotica/RoSGhost/blob/main/src/Pyhton_Code.png)
+Regular ![image](https://github.com/user-attachments/assets/df6e6693-ff66-4a96-bd05-109d06e84f09)
+
 
 ## Block Code
 
