@@ -9,12 +9,12 @@ All the programming has been done by ourselves.
 
 This image shows a screenshot of part of the source code running in the Lego application.
 
-Regular ![image](https://github.com/user-attachments/assets/df6e6693-ff66-4a96-bd05-109d06e84f09)
+[see image of code Python](https://github.com/user-attachments/assets/df6e6693-ff66-4a96-bd05-109d06e84f09)
 
 
 ## Block Code
 
 This image shows a screenshot of part of the block programming running in the Lego application.
 
-![Regular](https://github.com/csvprobotica/RoSGhost/blob/main/src/Block_Code.png)
+[Regular](https://raw.githubusercontent.com/csvprobotica/RoSGhost/main/src/Block_Code.png)
 
