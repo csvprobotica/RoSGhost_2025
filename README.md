@@ -1,6 +1,6 @@
 ## RoSGhost WRO 2025
 
-_The RoSGhost team is integrated by Alexis Quintero, Jose Filos and Fiorella Campos, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition._ 
+_The RoSGhost team is integrated by Alexis Quintero and Jose Filos, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition, We are young people driving innovation with autonomous robotics, creativity, and passion for the future🤖⚡._ 
 
 Engineering materials
 ====
@@ -120,5 +120,5 @@ Here is a detailed description of the strategy implemented in the code:
    - The robot remains in its final position, indicating the completion of its task.
 
 ## Challenges
-_One of the challenges was to improve the robot's turns, as at the beginning it did not move accurately. As a team, we analyzed the problem, tested solutions, and managed to optimize its performance. This allowed us to apply theoretical knowledge in practice and strengthen our ability to solve problems as a group._
+_Well, one of our challenges was to ensure that it followed the correct trajectory in any position we placed the robot. Instead of viewing it as a problem, we took it as a fun challenge, always with discipline and a lot of care, but we saw it as a way to show that there is always room for improvement.._
 
