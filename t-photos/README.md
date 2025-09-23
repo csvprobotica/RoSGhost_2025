@@ -3,7 +3,7 @@ Team's photos
 
 This directory contains two pictures of our team for this competition, one normal and the other funny.
 
-The RoSGhost team is integrated by Jose filos, Alexis Quintero and fiorella campos, who represent Colegio San Vicente de Paúl in this Future Engineers competition.
+The RoSGhost team is integrated by Jose filos and Alexis Quintero, who represent Colegio San Vicente de Paúl in this Future Engineers competition.
 
 we show that responsible and hardworking side with the eagerness to improve each time but without forgetting that fun side
 
